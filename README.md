@@ -1,4 +1,4 @@
 # Door-Lock
-Arduino Project: Password protected door lock </b>
-</b>
+Arduino Project: Password protected door lock </br>
+</br>
 CODE TO BE UPLOADED SOON
