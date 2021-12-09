@@ -1,4 +1,6 @@
 # Door-Lock
 Arduino Project: Password protected door lock </br>
 </br>
-CODE TO BE UPLOADED SOON
+STATUS: </br>
+Code uploaded and functioning, still needs to be commented </br>
+Serial Monitor temporarily as substitute for LCD </br>
